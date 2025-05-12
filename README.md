@@ -79,19 +79,10 @@ It should be placed inside a folder named:
 
 ---
 
-## 📷 (Optional) Add Images / Videos
-
-_Showcase your robot in action!_
-
----
-
 ## 🤝 Contribution
 
 Pull requests are welcome! Improve the logic, add features, or optimize sensor handling.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
